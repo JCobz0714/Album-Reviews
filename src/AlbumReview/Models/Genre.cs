@@ -12,8 +12,8 @@ namespace AlbumReview.Models
         public string GenreName { get; set; }
 
         //Representing the relationship from many to many with Genre, object level
-        public virtual ICollection<Album>? AlbumRelationList { get; set; }
+        public virtual ICollection<Album>? Albums { get; set; }
 
-        public virtual ICollection<AlbumGenre>? AlbumGenreRelationList { get; set; }
+        public virtual ICollection<AlbumGenre>? AlbumGenres { get; set; }
     }
 }

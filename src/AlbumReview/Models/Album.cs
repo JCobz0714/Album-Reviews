@@ -19,8 +19,8 @@ namespace AlbumReview.Models
         public IFormFile? AlbumCover { get; set; }
 
         //Representing the relationship from many to many with Genre, object level
-        public virtual ICollection<Genre>? GenreRelationList { get; set; }
+        public virtual ICollection<Genre>? Genres { get; set; }
 
-        public virtual ICollection<AlbumGenre>? AlbumGenreRelationList { get; set; }
+        public virtual ICollection<AlbumGenre>? AlbumGenres { get; set; }
     }
 }
