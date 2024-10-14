@@ -1,4 +1,4 @@
-# Music Album Reviews
+# Music Album Reviews 🎧🎼📀
 
 This is a little project about a personal website where I'm gonna share my reviews about music albums 😄.<br>
 The page allows visitors to read and explore critiques of several albums that I've listened to, with the possibility of filtering them by genre, artist or date.
