@@ -14,5 +14,13 @@ namespace AlbumReview.Models
         public string Artist { get; set; }
 
         public DateOnly ReleaseDate { get; set; }
+
+        //Representing the album cover image
+        public IFormFile? AlbumCover { get; set; }
+
+        //Representing the relationship from many to many with Genre, object level
+        public virtual ICollection<Genre>? GenreRelationList { get; set; }
+
+        public virtual ICollection<AlbumGenre>? AlbumGenreRelationList { get; set; }
     }
 }
