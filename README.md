@@ -7,7 +7,7 @@ The page allows visitors to read and explore critiques of several albums that I'
 
 - See detailed reviews of music albums.
 - Navigate through the albums by genre, artist or date.
-- Punctuation system to rate the albums (From 1 to 10).
+- Punctuation system to rate the albums and its songs (From 1 to 10).
 - Option to add my reviews to the website without having to enter the data manually to SQLite.
 
 ## Technologies used
