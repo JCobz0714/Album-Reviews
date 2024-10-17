@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "GJ65/LPqRI29rXxfy/xN44Y8N9HXiEApSf+e8PHeJ7M=",
+  "Hash": "nUXrtGDIVupVOflWVgYlRF62L9EC7UYh2mPoN5TjV24=",
   "Source": "AlbumReview",
   "BasePath": "_content/AlbumReview",
   "Mode": "Default",
@@ -16,44 +16,6 @@
     }
   ],
   "Assets": [
-    {
-      "Identity": "C:\\Album reviews web page\\src\\AlbumReview\\obj\\Debug\\net8.0\\scopedcss\\bundle\\AlbumReview.styles.css",
-      "SourceId": "AlbumReview",
-      "SourceType": "Computed",
-      "ContentRoot": "C:\\Album reviews web page\\src\\AlbumReview\\obj\\Debug\\net8.0\\scopedcss\\bundle\\",
-      "BasePath": "_content/AlbumReview",
-      "RelativePath": "AlbumReview.styles.css",
-      "AssetKind": "All",
-      "AssetMode": "CurrentProject",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "ScopedCss",
-      "AssetTraitValue": "ApplicationBundle",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Album reviews web page\\src\\AlbumReview\\obj\\Debug\\net8.0\\scopedcss\\bundle\\AlbumReview.styles.css"
-    },
-    {
-      "Identity": "C:\\Album reviews web page\\src\\AlbumReview\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\AlbumReview.bundle.scp.css",
-      "SourceId": "AlbumReview",
-      "SourceType": "Computed",
-      "ContentRoot": "C:\\Album reviews web page\\src\\AlbumReview\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\",
-      "BasePath": "_content/AlbumReview",
-      "RelativePath": "AlbumReview.bundle.scp.css",
-      "AssetKind": "All",
-      "AssetMode": "Reference",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "ScopedCss",
-      "AssetTraitValue": "ProjectBundle",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Album reviews web page\\src\\AlbumReview\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\AlbumReview.bundle.scp.css"
-    },
     {
       "Identity": "C:\\Album reviews web page\\src\\AlbumReview\\wwwroot\\css\\site.css",
       "SourceId": "AlbumReview",

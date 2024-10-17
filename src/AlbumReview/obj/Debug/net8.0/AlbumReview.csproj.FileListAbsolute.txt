@@ -4,8 +4,6 @@ C:\Album reviews web page\src\AlbumReview\obj\Debug\net8.0\AlbumReview.AssemblyI
 C:\Album reviews web page\src\AlbumReview\obj\Debug\net8.0\AlbumReview.AssemblyInfo.cs
 C:\Album reviews web page\src\AlbumReview\obj\Debug\net8.0\AlbumReview.csproj.CoreCompileInputs.cache
 C:\Album reviews web page\src\AlbumReview\obj\Debug\net8.0\AlbumReview.MvcApplicationPartsAssemblyInfo.cache
-C:\Album reviews web page\src\AlbumReview\obj\Debug\net8.0\AlbumReview.RazorAssemblyInfo.cache
-C:\Album reviews web page\src\AlbumReview\obj\Debug\net8.0\AlbumReview.RazorAssemblyInfo.cs
 C:\Album reviews web page\src\AlbumReview\obj\Debug\net8.0\AlbumReview.sourcelink.json
 C:\Album reviews web page\src\AlbumReview\bin\Debug\net8.0\appsettings.Development.json
 C:\Album reviews web page\src\AlbumReview\bin\Debug\net8.0\appsettings.json
@@ -137,12 +135,12 @@ C:\Album reviews web page\src\AlbumReview\obj\Debug\net8.0\staticwebassets\msbui
 C:\Album reviews web page\src\AlbumReview\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.AlbumReview.props
 C:\Album reviews web page\src\AlbumReview\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.AlbumReview.props
 C:\Album reviews web page\src\AlbumReview\obj\Debug\net8.0\staticwebassets.pack.json
-C:\Album reviews web page\src\AlbumReview\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
 C:\Album reviews web page\src\AlbumReview\obj\Debug\net8.0\scopedcss\bundle\AlbumReview.styles.css
-C:\Album reviews web page\src\AlbumReview\obj\Debug\net8.0\scopedcss\projectbundle\AlbumReview.bundle.scp.css
 C:\Album reviews web page\src\AlbumReview\obj\Debug\net8.0\AlbumRev.CBE3D41F.Up2Date
 C:\Album reviews web page\src\AlbumReview\obj\Debug\net8.0\AlbumReview.dll
 C:\Album reviews web page\src\AlbumReview\obj\Debug\net8.0\refint\AlbumReview.dll
 C:\Album reviews web page\src\AlbumReview\obj\Debug\net8.0\AlbumReview.pdb
 C:\Album reviews web page\src\AlbumReview\obj\Debug\net8.0\AlbumReview.genruntimeconfig.cache
 C:\Album reviews web page\src\AlbumReview\obj\Debug\net8.0\ref\AlbumReview.dll
+C:\Album reviews web page\src\AlbumReview\obj\Debug\net8.0\AlbumReview.RazorAssemblyInfo.cache
+C:\Album reviews web page\src\AlbumReview\obj\Debug\net8.0\AlbumReview.RazorAssemblyInfo.cs
