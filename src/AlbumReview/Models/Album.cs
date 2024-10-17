@@ -16,7 +16,7 @@ namespace AlbumReview.Models
         public DateOnly ReleaseDate { get; set; }
 
         //Representing the album cover image
-        public IFormFile? AlbumCover { get; set; }
+        public string? AlbumCoverPath { get; set; }
 
         //Representing the relationship from many to many with Genre, object level
         public virtual ICollection<Genre>? Genres { get; set; }

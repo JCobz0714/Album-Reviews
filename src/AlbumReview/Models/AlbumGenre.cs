@@ -7,14 +7,12 @@ namespace AlbumReview.Models
 {
     public class AlbumGenre
     {
-        public int Id { get; set; }
+        public int AlbumId { get; set; }
 
-        public int Album { get; set; }
+        public Album? Album {get; set;}
 
-        public Album? AlbumId {get; set;}
+        public int GenreId { get; set; }
 
-        public int Genre { get; set; }
-
-        public Genre? GenreId { get; set; }
+        public Genre? Genre { get; set; }
     }
 }
