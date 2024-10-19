@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "nUXrtGDIVupVOflWVgYlRF62L9EC7UYh2mPoN5TjV24=",
+  "Hash": "Lztqgpj8df53nV9BTcJdFqd3krth5M/UgDcB+mI/Roo=",
   "Source": "AlbumReview",
   "BasePath": "_content/AlbumReview",
   "Mode": "Default",
@@ -34,25 +34,6 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\css\\site.css"
-    },
-    {
-      "Identity": "C:\\Album reviews web page\\src\\AlbumReview\\wwwroot\\favicon.ico",
-      "SourceId": "AlbumReview",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Album reviews web page\\src\\AlbumReview\\wwwroot\\",
-      "BasePath": "_content/AlbumReview",
-      "RelativePath": "favicon.ico",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "PreferTarget",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\favicon.ico"
     },
     {
       "Identity": "C:\\Album reviews web page\\src\\AlbumReview\\wwwroot\\js\\site.js",
