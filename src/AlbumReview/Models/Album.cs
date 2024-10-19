@@ -15,6 +15,10 @@ namespace AlbumReview.Models
 
         public DateOnly ReleaseDate { get; set; }
 
+        public string? Review { get; set; }
+
+        public double Rating { get; set; }
+
         //Representing the album cover image
         public string? AlbumCoverPath { get; set; }
 
