@@ -6,7 +6,6 @@ var builder = WebApplication.CreateBuilder(args);
 var albumReviewDb = builder.Configuration.GetConnectionString("AlbumReviewDb");
 
 builder.Services.AddDbContext<DatabaseContext>(options => options.UseSqlServer(albumReviewDb));
-builder.Services.AddControllersWithViews();
 
 // Add services to the container.
 builder.Services.AddControllersWithViews();
